@@ -4,7 +4,7 @@ AI Engineer & LLMOps Specialist | Generative AI · NLP · Computer Vision · Ful
 📍 Lahore, Pakistan  
 📧 faransamra45@gmail.com  
 🔗 LinkedIn: linkedin.com/in/muhammad-faran-505b37288   
-🔗 Fiverr: Level 2 Seller (Top 10%)
+🔗 Fiverr:   https://www.fiverr.com/muhammad_f35
 
 ---
 
