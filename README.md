@@ -10,7 +10,7 @@ AI Engineer & LLMOps Specialist | Generative AI · NLP · Computer Vision · Ful
 
 ## 👋 About Me
 
-Final-year Computer Science graduate from UET Taxila and production-focused AI Engineer specializing in end-to-end AI systems, LLM applications, and scalable full-stack platforms.
+Computer Science graduate from UET Taxila and production-focused AI Engineer specializing in end-to-end AI systems, LLM applications, and scalable full-stack platforms.
 
 I design, train, and deploy real-world AI systems using **LLMs, RAG pipelines, multi-agent architectures, and MLOps best practices**.
 
